@@ -38,7 +38,7 @@ I am Matt Thomas, a **Data Scientist** based out of Fredericksburg, Virginia wor
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently reading [The Book of Why](https://www.amazon.com/The-Book-of-Why-audiobook/dp/B07CYJ4G2L/ref=sr_1_1?crid=OTP1X1VVD53C&keywords=the+book+of+why&qid=1658156586&sprefix=the+book+of+why%2Caps%2C113&sr=8-1) by Judea Peral
+- 🌱 I’m currently reading [The Book of Why](https://www.amazon.com/The-Book-of-Why-audiobook/dp/B07CYJ4G2L/ref=sr_1_1?crid=OTP1X1VVD53C&keywords=the+book+of+why&qid=1658156586&sprefix=the+book+of+why%2Caps%2C113&sr=8-1) by Judea Pearl
 - 📫 How to reach me: methomas2001@yahoo.com
 - 😄 Pronouns: he/him
 
